@@ -1,0 +1,1055 @@
+2026.09.25 12:29:35 INFO  Started: Metals version 1.6.9 in folders '/Users/ritamoreira/Downloads/Poisson' for client Visual Studio Code 1.136.1.
+2026.09.25 12:29:35 INFO  Memory monitor started
+2026.09.25 12:29:35 WARN  Using H2 2.5.250 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.09.25 12:29:36 INFO  no build target found for /Users/ritamoreira/Downloads/Poisson/UsePoisson/UsePoisson.java. Using fallback presentation compiler.
+2026.09.25 12:29:36 WARN  no build tool detected in workspace '/Users/ritamoreira/Downloads/Poisson'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2026.09.25 12:29:36 WARN  Build server is not auto-connectable.
+2026.09.25 12:29:36 WARN  no build target for: /Users/ritamoreira/Downloads/Poisson/Poisson/src/poisson/PoissonProcess.java
+2026.09.25 12:29:36 WARN  no build target for: /Users/ritamoreira/Downloads/Poisson/Poisson/src/poisson/InterArrivalTimesExample.java
+2026.09.25 12:29:36 WARN  no build target for: /Users/ritamoreira/Downloads/Poisson/Poisson/src/poisson/SampleValues.java
+2026.09.25 12:29:36 WARN  no build target for: /Users/ritamoreira/Downloads/Poisson/UsePoisson/UsePoisson.java
+2026.09.25 12:29:36 WARN  no build target for: /Users/ritamoreira/Downloads/Poisson/Poisson/src/poisson/EventsExample.java
+2026.09.25 12:29:38 INFO  time: code lens generation in 1.31s
+2026.09.25 12:29:40 INFO  no build target found for /Users/ritamoreira/Downloads/Poisson/UsePoisson/UsePoisson.java. Using fallback presentation compiler.
+2026.09.25 12:29:47 INFO  no build target found for /Users/ritamoreira/Downloads/Poisson/Poisson/src/poisson/EventsExample.java. Using fallback presentation compiler.
+2026.09.25 12:29:47 INFO  Created report: Optional[file:///Users/ritamoreira/Downloads/Poisson/Poisson/src/poisson/EventsExample.java]
+2026.09.25 12:29:47 INFO  empty definition using pc, found symbol in pc: _empty_/SampleValues#add# (full report at: "/Users/ritamoreira/Downloads/Poisson/.metals/.reports/metals-full/2026-09-25/r_empty-definition_12-29-47-459.md")
+2026.09.25 12:29:48 INFO  no build target found for /Users/ritamoreira/Downloads/Poisson/Poisson/src/poisson/PoissonProcess.java. Using fallback presentation compiler.
+2026.09.25 12:29:48 INFO  no build target found for /Users/ritamoreira/Downloads/Poisson/Poisson/src/poisson/InterArrivalTimesExample.java. Using fallback presentation compiler.
+2026.09.25 12:29:48 INFO  Created report: Optional[file:///Users/ritamoreira/Downloads/Poisson/Poisson/src/poisson/InterArrivalTimesExample.java]
+2026.09.25 12:29:48 INFO  empty definition using pc, found symbol in pc: _empty_/PoissonProcess#timeForNextEvent# (full report at: "/Users/ritamoreira/Downloads/Poisson/.metals/.reports/metals-full/2026-09-25/r_empty-definition_12-29-48-512.md")
+2026.09.25 12:29:48 INFO  no build target found for /Users/ritamoreira/Downloads/Poisson/UsePoisson/UsePoisson.java. Using fallback presentation compiler.
+2026.09.25 12:29:48 INFO  Created report: Optional[file:///Users/ritamoreira/Downloads/Poisson/UsePoisson/UsePoisson.java]
+2026.09.25 12:29:48 INFO  empty definition using pc, found symbol in pc: java/lang/Thread# (full report at: "/Users/ritamoreira/Downloads/Poisson/.metals/.reports/metals-full/2026-09-25/r_empty-definition_12-29-48-736.md")
+2026.09.25 12:29:48 WARN  Not starting Scala CLI for out-of-workspace file (it can be started manually): /java.base/java/lang/Thread.java
+2026.09.25 12:29:48 WARN  Using H2 2.5.250 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.09.25 12:29:48 INFO  no build target found for /java.base/java/lang/Thread.java. Using fallback presentation compiler.
+2026.09.25 12:30:33 INFO  no build target found for /Users/ritamoreira/Downloads/Poisson/Poisson/src/poisson/PoissonProcess.java. Using fallback presentation compiler.
+2026.09.25 12:30:33 INFO  no build target found for /Users/ritamoreira/Downloads/Poisson/Poisson/src/poisson/PoissonProcess.java. Using fallback presentation compiler.
+2026.09.25 12:30:33 WARN  no build target for: /Users/ritamoreira/Downloads/Poisson/Poisson/src/poisson/PoissonProcess.java
+2026.09.25 12:30:33 INFO  no build target found for /Users/ritamoreira/Downloads/Poisson/Poisson/src/poisson/PoissonProcess.java. Using fallback presentation compiler.
+2026.09.25 12:30:36 INFO  no build target found for /Users/ritamoreira/Downloads/Poisson/Poisson/src/poisson/PoissonProcess.java. Using fallback presentation compiler.
+2026.09.25 12:32:25 INFO  no build target found for /Users/ritamoreira/Downloads/Poisson/UsePoisson/UsePoisson.java. Using fallback presentation compiler.
+2026.09.25 12:32:25 INFO  no build target found for /Users/ritamoreira/Downloads/Poisson/Poisson/src/poisson/EventsExample.java. Using fallback presentation compiler.
+2026.09.25 12:32:25 INFO  no build target found for /Users/ritamoreira/Downloads/Poisson/Poisson/src/poisson/InterArrivalTimesExample.java. Using fallback presentation compiler.
+2026.09.25 12:32:25 INFO  no build target found for /Users/ritamoreira/Downloads/Poisson/Poisson/src/poisson/PoissonProcess.java. Using fallback presentation compiler.
+2026.09.25 12:32:25 INFO  no build target found for /Users/ritamoreira/Downloads/Poisson/Poisson/src/poisson/EventsExample.java. Using fallback presentation compiler.
+2026.09.25 12:32:25 INFO  empty definition using pc, found symbol in pc: _empty_/SampleValues#add# (full report at: "/Users/ritamoreira/Downloads/Poisson/.metals/.reports/metals-full/2026-09-25/r_empty-definition_12-29-47-459.md")
+2026.09.25 12:32:44 INFO  no build target found for /Users/ritamoreira/Downloads/Poisson/Poisson/src/poisson/EventsExample.java. Using fallback presentation compiler.
+2026.09.25 12:32:45 WARN  no build target for: /Users/ritamoreira/Downloads/Poisson/Poisson/src/poisson/EventsExample.java
+2026.09.25 12:32:44 INFO  no build target found for /Users/ritamoreira/Downloads/Poisson/Poisson/src/poisson/EventsExample.java. Using fallback presentation compiler.
+2026.09.25 12:32:45 INFO  no build target found for /Users/ritamoreira/Downloads/Poisson/Poisson/src/poisson/EventsExample.java. Using fallback presentation compiler.
+2026.09.25 12:33:35 INFO  Shutting down server
+2026.09.25 12:33:35 INFO  Memory monitor stopped
+2026.09.25 12:33:35 INFO  shutting down Metals
+2026.09.25 12:33:35 INFO  Exiting server
+2026.09.25 12:33:42 INFO  Started: Metals version 1.6.9 in folders '/Users/ritamoreira/Downloads/Poisson, /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer' for client Visual Studio Code 1.136.1.
+2026.09.25 12:33:42 INFO  Memory monitor started
+2026.09.25 12:33:43 WARN  Using H2 2.5.250 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.09.25 12:33:43 INFO  no build target found for /Users/ritamoreira/Downloads/Poisson/Poisson/src/poisson/EventsExample.java. Using fallback presentation compiler.
+Sept 25, 2026 12:33:43 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2
+Sept 25, 2026 12:33:43 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1
+2026.09.25 12:33:43 WARN  no build tool detected in workspace '/Users/ritamoreira/Downloads/Poisson'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2026.09.25 12:33:43 WARN  Build server is not auto-connectable.
+2026.09.25 12:33:43 WARN  no build target for: /Users/ritamoreira/Downloads/Poisson/Poisson/src/poisson/PoissonProcess.java
+2026.09.25 12:33:44 WARN  no build target for: /Users/ritamoreira/Downloads/Poisson/UsePoisson/UsePoisson.java
+2026.09.25 12:33:44 WARN  no build target for: /Users/ritamoreira/Downloads/Poisson/Poisson/src/poisson/SampleValues.java
+2026.09.25 12:33:44 WARN  no build target for: /Users/ritamoreira/Downloads/Poisson/Poisson/src/poisson/InterArrivalTimesExample.java
+2026.09.25 12:33:44 WARN  no build target for: /Users/ritamoreira/Downloads/Poisson/Poisson/src/poisson/EventsExample.java
+2026.09.25 12:33:43 WARN  Using H2 2.5.250 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.09.25 12:33:44 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:33:44 WARN  no build tool detected in workspace '/Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2026.09.25 12:33:44 WARN  Build server is not auto-connectable.
+2026.09.25 12:33:44 WARN  no build target for: /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java
+Sept 25, 2026 12:33:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4
+2026.09.25 12:33:44 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:33:44 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+Sept 25, 2026 12:33:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5
+Sept 25, 2026 12:33:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8
+2026.09.25 12:33:44 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+Sept 25, 2026 12:33:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7
+2026.09.25 12:33:44 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+Sept 25, 2026 12:33:45 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 15
+2026.09.25 12:33:45 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+Sept 25, 2026 12:33:45 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 16
+Sept 25, 2026 12:33:45 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 11
+2026.09.25 12:33:46 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:33:47 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:33:47 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:33:47 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:33:47 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:33:48 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:33:48 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:33:49 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:33:50 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:33:52 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:33:52 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:33:55 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:33:55 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:33:59 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:33:59 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:34:01 INFO  logging to files /Users/ritamoreira/Downloads/Poisson/.metals/metals.log,/Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/.metals/metals.log,/Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/basic/.metals/metals.log
+2026.09.25 12:34:01 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:34:02 WARN  Using H2 2.5.250 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.09.25 12:34:01 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:34:01 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:34:01 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:34:01 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+Sept 25, 2026 12:34:02 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 41
+2026.09.25 12:34:02 WARN  no build tool detected in workspace '/Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/basic'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2026.09.25 12:34:02 WARN  Build server is not auto-connectable.
+2026.09.25 12:34:03 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:34:03 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:34:05 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:34:05 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:34:07 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:34:07 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:34:09 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:34:09 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:34:11 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:34:11 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:34:13 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:34:13 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:34:15 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:34:15 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:34:17 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:34:17 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:34:19 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:34:19 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:34:21 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:34:21 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:34:23 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:34:23 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:34:25 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:34:25 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:34:27 INFO  no build target found for /Users/ritamoreira/Downloads/Poisson/Poisson/src/poisson/EventsExample.java. Using fallback presentation compiler.
+2026.09.25 12:34:27 INFO  empty definition using pc, found symbol in pc: _empty_/SampleValues#add# (full report at: "/Users/ritamoreira/Downloads/Poisson/.metals/.reports/metals-full/2026-09-25/r_empty-definition_12-29-47-459.md")
+2026.09.25 12:34:27 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:34:27 INFO  no build target found for /Users/ritamoreira/Downloads/Poisson/Poisson/src/poisson/PoissonProcess.java. Using fallback presentation compiler.
+2026.09.25 12:34:27 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:34:27 INFO  no build target found for /Users/ritamoreira/Downloads/Poisson/Poisson/src/poisson/EventsExample.java. Using fallback presentation compiler.
+2026.09.25 12:34:27 INFO  empty definition using pc, found symbol in pc: _empty_/SampleValues#add# (full report at: "/Users/ritamoreira/Downloads/Poisson/.metals/.reports/metals-full/2026-09-25/r_empty-definition_12-29-47-459.md")
+2026.09.25 12:34:29 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:34:29 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:34:31 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:34:31 INFO  no build target found for /Users/ritamoreira/Downloads/Poisson/Poisson/src/poisson/PoissonProcess.java. Using fallback presentation compiler.
+2026.09.25 12:34:31 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:34:33 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:34:33 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:34:35 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:34:35 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:34:37 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:34:37 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:34:39 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:34:39 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:34:41 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:34:41 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:34:43 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:34:43 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:34:43 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:34:45 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:34:45 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:34:47 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:34:47 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:34:49 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:34:49 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:34:51 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:34:51 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:34:53 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:34:53 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:34:55 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:34:55 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:34:57 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:34:57 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:34:59 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:34:59 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:35:01 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:35:01 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:35:03 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:35:03 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:35:05 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:35:05 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:35:07 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:35:07 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:35:09 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:35:09 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:35:11 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:35:11 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:35:13 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:35:13 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:35:15 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:35:15 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:35:17 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:35:17 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:35:19 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:35:19 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:35:21 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:35:21 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:35:23 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:35:23 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:35:25 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:35:25 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:35:27 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:35:27 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:35:29 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:35:29 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:35:31 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:35:31 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:35:33 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:35:33 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:35:35 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:35:35 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:35:37 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:35:37 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:35:39 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:35:39 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:35:41 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:35:41 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:35:43 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:35:43 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:35:45 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:35:45 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:35:47 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:35:47 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:35:47 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:35:49 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:35:49 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:35:51 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:35:51 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:35:53 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:35:53 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:35:55 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:35:55 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:35:57 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:35:57 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:35:59 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:35:59 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:36:01 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:36:01 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:36:03 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:36:03 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:36:05 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:36:05 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:36:07 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:36:07 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:36:09 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:36:09 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:36:11 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:36:11 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:36:13 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:36:13 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:36:15 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:36:15 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:36:17 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:36:17 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:36:19 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:36:19 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:36:21 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:36:21 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:36:21 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:36:21 WARN  no build target for: /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java
+2026.09.25 12:36:21 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:36:21 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:36:21 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:36:22 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:36:22 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:36:24 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:36:25 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:36:25 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:36:27 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:36:27 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:36:29 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:36:29 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:36:29 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:36:30 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:36:30 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:36:30 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:36:31 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:36:31 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:36:33 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:36:33 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:36:35 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:36:35 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+Sept 25, 2026 12:36:37 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Sept 25, 2026 12:36:37 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2026.09.25 12:36:37 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:36:37 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:36:37 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+Sept 25, 2026 12:36:38 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Sept 25, 2026 12:36:38 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2026.09.25 12:36:38 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:36:38 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:36:39 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:36:41 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:36:41 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:36:41 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:36:41 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:36:43 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:36:43 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:36:45 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:36:45 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:36:47 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:36:47 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:36:49 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:36:49 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:36:51 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:36:51 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:36:51 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:36:51 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:36:53 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:36:53 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:36:55 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:36:55 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:36:57 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:36:57 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:36:59 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:36:59 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:36:59 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:37:00 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:37:00 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:37:00 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:37:00 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:37:02 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:37:02 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:37:03 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:37:03 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:37:05 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:37:05 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:37:07 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:37:07 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:37:09 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:37:09 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:37:11 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:37:11 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:37:13 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:37:13 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:37:15 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:37:15 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:37:16 INFO  no build target found for /Users/ritamoreira/Downloads/Poisson/Poisson/src/poisson/EventsExample.java. Using fallback presentation compiler.
+2026.09.25 12:37:16 INFO  empty definition using pc, found symbol in pc: _empty_/SampleValues#add# (full report at: "/Users/ritamoreira/Downloads/Poisson/.metals/.reports/metals-full/2026-09-25/r_empty-definition_12-29-47-459.md")
+2026.09.25 12:37:17 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:37:17 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:37:17 INFO  Created report: Optional[file:///Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java]
+2026.09.25 12:37:17 INFO  empty definition using pc, found symbol in pc: poisson/PoissonProcess# (full report at: "/Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/.metals/.reports/metals-full/2026-09-25/r_empty-definition_12-37-17-708.md")
+2026.09.25 12:37:17 INFO  no build target found for /Users/ritamoreira/Downloads/Poisson/Poisson/src/poisson/PoissonProcess.java. Using fallback presentation compiler.
+2026.09.25 12:37:17 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:37:17 INFO  no build target found for /Users/ritamoreira/Downloads/Poisson/Poisson/src/poisson/EventsExample.java. Using fallback presentation compiler.
+2026.09.25 12:37:17 INFO  no build target found for /Users/ritamoreira/Downloads/Poisson/Poisson/src/poisson/InterArrivalTimesExample.java. Using fallback presentation compiler.
+2026.09.25 12:37:17 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:37:18 INFO  no build target found for /Users/ritamoreira/Downloads/Poisson/Poisson/src/poisson/PoissonProcess.java. Using fallback presentation compiler.
+2026.09.25 12:37:18 INFO  no build target found for /Users/ritamoreira/Downloads/Poisson/UsePoisson/UsePoisson.java. Using fallback presentation compiler.
+2026.09.25 12:37:19 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:37:19 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:37:21 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:37:21 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:37:23 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:37:23 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:37:24 WARN  no build target for: /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java
+2026.09.25 12:37:24 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:37:25 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:37:25 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:37:27 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:37:27 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:37:29 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:37:29 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:37:30 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:37:30 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:37:32 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:37:33 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:37:33 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:37:33 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:37:35 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:37:35 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:37:37 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:37:37 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:37:39 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:37:39 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:37:41 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:37:41 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:37:43 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:37:43 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:37:45 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:37:45 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:37:47 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:37:47 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:37:49 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:37:49 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:37:51 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:37:51 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:37:53 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:37:53 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:37:55 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:37:55 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:37:57 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:37:57 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:37:59 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:37:59 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:38:01 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:38:01 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:38:03 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:38:03 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:38:05 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:38:05 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:38:07 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:38:07 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:38:09 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:38:09 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:38:11 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:38:11 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:38:13 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:38:13 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:38:15 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:38:15 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:38:17 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:38:17 INFO  no build target found for /Users/ritamoreira/Downloads/Poisson/Poisson/src/poisson/EventsExample.java. Using fallback presentation compiler.
+2026.09.25 12:38:17 INFO  empty definition using pc, found symbol in pc: _empty_/SampleValues#add# (full report at: "/Users/ritamoreira/Downloads/Poisson/.metals/.reports/metals-full/2026-09-25/r_empty-definition_12-29-47-459.md")
+2026.09.25 12:38:17 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:38:19 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:38:19 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:38:21 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:38:21 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:38:23 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:38:23 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:38:25 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:38:25 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:38:27 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:38:27 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:38:29 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:38:29 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:38:31 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:38:31 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:38:33 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:38:33 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:39:01 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:39:44 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:39:44 INFO  empty definition using pc, found symbol in pc: poisson/PoissonProcess# (full report at: "/Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/.metals/.reports/metals-full/2026-09-25/r_empty-definition_12-37-17-708.md")
+2026.09.25 12:39:44 INFO  no build target found for /Users/ritamoreira/Downloads/Poisson/Poisson/src/poisson/PoissonProcess.java. Using fallback presentation compiler.
+2026.09.25 12:39:44 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:39:44 INFO  no build target found for /Users/ritamoreira/Downloads/Poisson/Poisson/src/poisson/EventsExample.java. Using fallback presentation compiler.
+2026.09.25 12:39:44 INFO  empty definition using pc, found symbol in pc: _empty_/SampleValues#add# (full report at: "/Users/ritamoreira/Downloads/Poisson/.metals/.reports/metals-full/2026-09-25/r_empty-definition_12-29-47-459.md")
+2026.09.25 12:39:44 INFO  Created report: Optional[file:///Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java]
+2026.09.25 12:39:44 INFO  empty definition using pc, found symbol in pc: _empty_/PoissonProcess#timeForNextEvent# (full report at: "/Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/.metals/.reports/metals-full/2026-09-25/r_empty-definition_12-39-44-245.md")
+2026.09.25 12:39:44 INFO  no build target found for /Users/ritamoreira/Downloads/Poisson/Poisson/src/poisson/InterArrivalTimesExample.java. Using fallback presentation compiler.
+2026.09.25 12:39:44 INFO  empty definition using pc, found symbol in pc: _empty_/PoissonProcess#timeForNextEvent# (full report at: "/Users/ritamoreira/Downloads/Poisson/.metals/.reports/metals-full/2026-09-25/r_empty-definition_12-29-48-512.md")
+2026.09.25 12:39:45 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:39:45 INFO  Created report: Optional[file:///Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java]
+2026.09.25 12:39:45 INFO  empty definition using pc, found symbol in pc: java/util/Random# (full report at: "/Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/.metals/.reports/metals-full/2026-09-25/r_empty-definition_12-39-45-139.md")
+2026.09.25 12:39:45 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:39:45 INFO  empty definition using pc, found symbol in pc: _empty_/PoissonProcess#timeForNextEvent# (full report at: "/Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/.metals/.reports/metals-full/2026-09-25/r_empty-definition_12-39-44-245.md")
+2026.09.25 12:39:45 INFO  no build target found for /Users/ritamoreira/Downloads/Poisson/Poisson/src/poisson/InterArrivalTimesExample.java. Using fallback presentation compiler.
+2026.09.25 12:39:45 INFO  empty definition using pc, found symbol in pc: _empty_/PoissonProcess#timeForNextEvent# (full report at: "/Users/ritamoreira/Downloads/Poisson/.metals/.reports/metals-full/2026-09-25/r_empty-definition_12-29-48-512.md")
+2026.09.25 12:39:45 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:39:45 INFO  Created report: Optional[file:///Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java]
+2026.09.25 12:39:45 INFO  empty definition using pc, found symbol in pc: java/lang/Thread# (full report at: "/Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/.metals/.reports/metals-full/2026-09-25/r_empty-definition_12-39-45-697.md")
+2026.09.25 12:39:45 WARN  Not starting Scala CLI for out-of-workspace file (it can be started manually): /java.base/java/lang/Thread.java
+2026.09.25 12:39:45 WARN  Using H2 2.5.250 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.09.25 12:39:45 INFO  no build target found for /java.base/java/lang/Thread.java. Using fallback presentation compiler.
+2026.09.25 12:39:45 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:39:45 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:39:47 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:39:47 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:39:47 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:39:47 INFO  empty definition using pc, found symbol in pc: poisson/PoissonProcess# (full report at: "/Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/.metals/.reports/metals-full/2026-09-25/r_empty-definition_12-37-17-708.md")
+2026.09.25 12:39:47 INFO  no build target found for /Users/ritamoreira/Downloads/Poisson/Poisson/src/poisson/PoissonProcess.java. Using fallback presentation compiler.
+2026.09.25 12:40:28 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:40:28 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:40:28 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:40:30 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:40:30 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:40:30 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:40:30 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:40:31 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:40:31 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:40:31 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:40:31 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:40:31 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:40:32 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:40:32 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:40:34 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:40:35 WARN  no build target for: /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/PoissonProcess.java
+2026.09.25 12:40:35 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/PoissonProcess.java. Using fallback presentation compiler.
+2026.09.25 12:40:35 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:40:35 WARN  Running javac-semanticdb failed for file:///Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/PoissonProcess.java. Output:
+
+2026.09.25 12:40:35 WARN  no build target for: /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/PoissonProcess.java
+2026.09.25 12:40:35 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:40:36 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:40:36 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:40:36 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:40:36 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:40:37 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:40:37 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:40:37 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:40:38 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:40:38 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:40:39 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:40:39 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/PoissonProcess.java. Using fallback presentation compiler.
+2026.09.25 12:40:39 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:40:41 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:40:41 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:40:44 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:40:48 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:40:51 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:40:51 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:40:53 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:40:53 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:40:55 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:40:55 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:40:57 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:40:57 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:40:59 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:40:59 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:41:01 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:41:01 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:41:03 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:41:03 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:41:05 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:41:05 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:41:07 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:41:07 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:41:09 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:41:09 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:41:11 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:41:11 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:41:13 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:41:13 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:41:15 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:41:15 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:41:17 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:41:17 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:41:19 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:41:19 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:41:21 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:41:21 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:41:23 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:41:23 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:41:25 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:41:25 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:41:27 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:41:27 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:41:29 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:41:29 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:41:31 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:41:31 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:41:33 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:41:33 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:41:35 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:41:35 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:41:37 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:41:37 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:41:39 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:41:39 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:41:41 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:41:41 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:41:43 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:41:43 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:41:45 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:41:45 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:41:47 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:41:47 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:41:49 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:41:49 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:41:51 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:41:51 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:41:53 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:41:53 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:41:55 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:41:55 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:41:57 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:41:57 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:41:59 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:41:59 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:42:01 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:42:01 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:42:03 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:42:03 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:42:05 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:42:05 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:42:07 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:42:07 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:42:07 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:42:07 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:42:08 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:42:09 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:42:09 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:42:09 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:42:11 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:42:11 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:42:11 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:42:11 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:42:11 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:42:12 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:42:12 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:42:13 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:42:13 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:42:14 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:42:14 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:42:15 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:42:15 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:42:15 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:42:17 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:42:17 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:42:17 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:42:19 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:42:19 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:42:19 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:42:20 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:42:20 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:42:20 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:42:20 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:42:20 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:42:22 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:42:22 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:42:22 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:42:22 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:42:23 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:42:23 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:42:23 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:42:24 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:42:24 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:42:24 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:42:24 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:42:25 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:42:25 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:42:26 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:42:26 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:42:27 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:42:27 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:42:29 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:42:29 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:42:29 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:42:29 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:42:29 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:42:31 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:42:31 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:42:31 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:42:33 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:42:33 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:42:33 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:42:33 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:42:35 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:42:35 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:42:35 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:42:37 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:42:37 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:42:39 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:42:39 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:42:39 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:42:40 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:42:40 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:42:40 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:42:41 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:42:48 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:42:50 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:42:50 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:42:50 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:42:50 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:42:50 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:42:51 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:42:51 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:42:51 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:42:53 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:42:53 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:42:53 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:42:55 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:42:55 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:42:55 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:42:55 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:42:57 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:42:57 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:42:57 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:42:57 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:42:59 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:42:59 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:42:59 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:42:59 WARN  no build target for: /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java
+2026.09.25 12:42:59 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:42:59 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:43:00 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:43:00 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:43:00 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:43:01 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:43:01 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:43:01 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:43:02 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:43:02 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:43:02 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:43:02 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:43:02 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:43:04 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:43:04 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:43:04 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:43:05 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:43:05 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:43:07 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:43:07 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:43:09 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:43:09 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:43:11 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:43:11 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:43:11 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:43:11 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:43:11 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:43:12 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:43:12 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:43:12 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:43:12 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:43:13 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:43:13 INFO  Created report: Optional[file:///Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java]
+2026.09.25 12:43:13 INFO  empty definition using pc, found symbol in pc: java/net/ServerSocket# (full report at: "/Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/.metals/.reports/metals-full/2026-09-25/r_empty-definition_12-43-13-197.md")
+2026.09.25 12:43:12 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:43:13 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:43:13 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:43:14 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:43:13 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:43:13 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:43:13 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:43:15 WARN  no build target for: /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java
+2026.09.25 12:43:15 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:43:16 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:43:16 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:43:16 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:43:17 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:43:19 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:43:19 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:43:19 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:43:19 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:43:21 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:43:21 WARN  no build target for: /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java
+2026.09.25 12:43:21 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:43:21 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:43:21 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:43:21 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:43:23 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:43:23 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:43:23 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:43:23 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:43:24 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:43:24 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:43:24 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:43:26 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:43:26 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:43:26 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:43:26 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:43:26 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:43:27 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:43:27 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:43:27 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:43:27 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:43:27 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:43:27 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:43:27 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:43:28 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:43:28 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:43:28 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:43:28 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:43:30 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:43:30 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:43:30 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:43:30 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:43:30 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:43:31 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:43:31 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:43:31 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:43:31 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:43:31 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:43:31 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:43:31 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:43:31 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:43:31 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:43:31 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:43:32 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:43:32 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:43:32 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:43:32 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:43:33 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:43:33 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:43:33 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:43:33 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:43:33 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:43:33 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:43:34 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:43:34 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:43:36 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:43:37 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:43:37 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:43:39 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:43:39 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:43:41 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:43:41 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:43:43 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:43:43 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:43:43 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:43:43 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:43:43 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:43:43 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:43:44 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:43:43 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:43:44 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:43:44 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:43:44 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:43:44 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:43:44 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:43:44 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:43:45 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:43:44 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:43:45 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:43:45 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:43:45 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:43:45 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:43:45 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:43:45 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:43:46 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:43:45 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:43:45 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:43:46 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:43:45 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:43:46 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:43:46 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:43:46 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:43:46 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:43:46 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:43:46 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:43:47 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:43:46 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:43:47 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:43:47 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:43:47 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:43:47 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:43:49 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:43:49 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:43:51 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:43:51 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:43:51 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:43:52 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:43:52 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:43:52 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:43:52 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:43:53 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:43:52 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:43:52 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:43:54 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:43:54 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:43:55 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:43:56 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:43:56 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:43:56 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:43:58 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:43:59 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:43:59 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:44:00 WARN  no build target for: /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java
+2026.09.25 12:44:00 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:44:01 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:44:01 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:44:03 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:44:03 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:44:05 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:44:05 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:44:07 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:44:07 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:44:09 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:44:09 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:44:11 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:44:11 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:44:13 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:44:13 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:44:15 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:44:15 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:44:17 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:44:17 WARN  Not starting Scala CLI for out-of-workspace file (it can be started manually): /Users/ritamoreira/Library/Application Support/Code/User/workspaceStorage/de43c56d58f469596935737617bb7c03/redhat.java/jdt_ws/jdt.ls-java-project/src/ds/examples/sockets/peer/PoissonProcess.java
+2026.09.25 12:44:17 INFO  no build target found for /Users/ritamoreira/Library/Application Support/Code/User/workspaceStorage/de43c56d58f469596935737617bb7c03/redhat.java/jdt_ws/jdt.ls-java-project/src/ds/examples/sockets/peer/PoissonProcess.java. Using fallback presentation compiler.
+2026.09.25 12:44:17 WARN  no build target for: /Users/ritamoreira/Library/Application Support/Code/User/workspaceStorage/de43c56d58f469596935737617bb7c03/redhat.java/jdt_ws/jdt.ls-java-project/src/ds/examples/sockets/peer/PoissonProcess.java
+2026.09.25 12:44:17 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:44:17 WARN  Running javac-semanticdb failed for file:///Users/ritamoreira/Library/Application%20Support/Code/User/workspaceStorage/de43c56d58f469596935737617bb7c03/redhat.java/jdt_ws/jdt.ls-java-project/src/ds/examples/sockets/peer/PoissonProcess.java. Output:
+
+2026.09.25 12:44:17 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:44:17 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:44:19 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:44:19 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:44:21 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:44:21 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:44:21 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:44:21 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:44:22 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:44:22 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:44:22 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:44:24 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:44:24 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:44:24 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:44:24 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:44:24 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:44:25 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:44:25 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:44:25 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:44:25 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:44:25 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:44:25 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:44:26 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:44:26 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:44:26 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:44:28 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:44:28 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:44:28 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:44:29 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:44:29 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:44:29 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:44:29 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:44:29 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:44:30 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:44:30 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:44:30 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:44:30 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:44:30 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:44:30 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:44:30 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:44:30 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:44:30 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:44:31 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:44:31 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:44:31 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:44:31 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:44:31 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:44:31 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:44:32 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:44:32 WARN  no build target for: /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java
+2026.09.25 12:44:32 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:44:33 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:44:33 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:44:35 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:44:35 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:44:37 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:44:37 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:44:37 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:44:38 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:44:38 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:44:38 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:44:39 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:44:39 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:44:39 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:44:43 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:44:43 WARN  no build target for: /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java
+2026.09.25 12:44:43 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:44:43 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:44:43 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:44:43 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:44:47 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:44:47 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:44:49 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:44:49 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:44:51 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:44:51 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:44:53 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:44:53 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:44:55 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:44:55 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:44:57 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:44:57 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:44:59 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:44:59 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:45:01 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:45:01 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:45:03 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:45:03 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:45:05 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:45:05 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:45:07 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:45:07 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:45:08 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/PoissonProcess.java. Using fallback presentation compiler.
+2026.09.25 12:45:08 WARN  no build target for: /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/PoissonProcess.java
+2026.09.25 12:45:08 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:45:08 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:45:10 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:45:11 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:45:11 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:45:13 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:45:13 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:45:15 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:45:15 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:45:17 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:45:17 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:45:19 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:45:19 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:45:21 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:45:21 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:45:23 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:45:23 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:45:25 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:45:25 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:45:27 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:45:27 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:45:29 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:45:29 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:45:31 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:45:31 WARN  no build target for: /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java
+2026.09.25 12:45:31 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:45:31 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:45:31 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:45:31 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:45:31 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:45:32 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:45:32 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:45:32 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:45:33 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:45:33 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:45:35 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:45:35 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:45:37 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:45:37 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:45:39 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:45:39 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:45:41 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:45:41 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:45:43 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:45:43 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:45:43 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:45:45 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:45:45 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:45:47 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:45:47 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:45:49 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:45:49 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:45:51 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:45:51 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:45:53 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:45:53 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:45:55 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:45:55 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:45:57 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:45:57 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:45:59 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:45:59 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:46:01 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:46:01 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:46:03 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:46:03 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:46:05 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:46:05 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:46:07 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:46:07 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:46:08 WARN  no build target for: /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java
+2026.09.25 12:46:08 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:46:09 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:46:09 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:46:11 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:46:11 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:46:11 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:46:13 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:46:13 INFO  no build target found for /Users/ritamoreira/Desktop/MCC/1S/Sistemas_distribuidos/jsockets/ds/examples/sockets/peer/Peer.java. Using fallback presentation compiler.
+2026.09.25 12:46:40 INFO  Shutting down server
+2026.09.25 12:46:40 INFO  Memory monitor stopped
+2026.09.25 12:46:40 INFO  shutting down Metals
+2026.09.25 12:46:40 INFO  Exiting server
